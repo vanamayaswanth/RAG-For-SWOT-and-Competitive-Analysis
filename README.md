@@ -50,7 +50,7 @@ We conducted extensive research to identify industry pain points and ensure the 
 5. Make sure to have a valid API key for the API
 
  ```bash
-   export Groq_API_Key=<your_api_key>
+   export GROQ_API_KEY="gsk_"
    ```
 
 
