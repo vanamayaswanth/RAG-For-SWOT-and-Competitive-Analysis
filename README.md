@@ -47,8 +47,15 @@ We conducted extensive research to identify industry pain points and ensure the 
    ```
 4. Access the application in your browser at `http://localhost:8501`.
 
+5. Make sure to have a valid API key for the API
+
+ ```bash
+   export Groq_API_Key=<your_api_key>
+   ```
+
+
 ## Contribution
-This project was developed collaboratively wih AKashda Kadam , emphasizing rigorous testing and iterative improvement. We ensured every module was reviewed and optimized to meet our quality standards.
+This project was developed collaboratively wih Akshada kadam, emphasizing rigorous testing and iterative improvement. We ensured every module was reviewed and optimized to meet our quality standards.
 
 We welcome suggestions for enhancements to ensure the application continues to align with evolving business requirements. Please reach out through our internal communication channels to share feedback or propose new features.
 
